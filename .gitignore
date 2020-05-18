@@ -1,0 +1,14 @@
+*~
+*.swp
+.DS_Store
+npm-debug.log
+lerna-debug.log
+npm-debug.log*
+es/
+build/
+coverage/
+node_modules/
+examples/test
+.idea/
+yarn.lock
+.vscode
